@@ -1,12 +1,11 @@
 <h1 align="center">
-Calculate Calories
+BMI calculator
 </h1>
 
 <h2>
 Decription
 </h2>
-
-This is a mobile app that calculates your 
+This is a mobile app that calculates your body mass index (BMI)
 
 <h2>
 Screenshots
@@ -16,11 +15,20 @@ Screenshots
 Home
 </h2>
 
-<img width="200" src="https://github.com/AhmedMohsen2492/BMI_Calculator/blob/BMI_Calculator-app/Screenshot/Screenshot_20221017_222222.png" class="centerImage">
+<p align="center">
+  <img 
+    width="250"
+   src="https://github.com/AhmedMohsen2492/BMI_Calculator/blob/BMI_Calculator-app/Screenshot/Screenshot_20221017_222222.png"
+   >
+</p>
 
 <h2 align="center">
 Result
 </h2>
 
-<img width="200" src="https://github.com/AhmedMohsen2492/BMI_Calculator/blob/BMI_Calculator-app/Screenshot/Screenshot_20221017_222256.png" class="centerImage">
-
+<p align="center">
+  <img
+     width="250" 
+     src="https://github.com/AhmedMohsen2492/BMI_Calculator/blob/BMI_Calculator-app/Screenshot/Screenshot_20221017_222256.png"
+   >
+</p>
