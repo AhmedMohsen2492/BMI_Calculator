@@ -1,16 +1,26 @@
-# bmi_calculator
+<h1 align="center">
+Calculate Calories
+</h1>
 
-A new Flutter project.
+<h2>
+Decription
+</h2>
 
-## Getting Started
+This is a mobile app that calculates your 
 
-This project is a starting point for a Flutter application.
+<h2>
+Screenshots
+</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<h2 align="center">
+Home
+</h2>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img width="200" src="https://github.com/AhmedMohsen2492/BMI_Calculator/blob/BMI_Calculator-app/Screenshot/Screenshot_20221017_222222.png" class="centerImage">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2 align="center">
+Result
+</h2>
+
+<img width="200" src="https://github.com/AhmedMohsen2492/BMI_Calculator/blob/BMI_Calculator-app/Screenshot/Screenshot_20221017_222256.png" class="centerImage">
+
